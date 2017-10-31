@@ -1,3 +1,4 @@
+Creating a new branch is quick
 test my first git
 test change
 change third
